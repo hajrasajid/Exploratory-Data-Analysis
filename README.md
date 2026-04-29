@@ -28,7 +28,8 @@ Overlap exists in sepal features, especially between Iris-versicolor and Iris-vi
 **Outlier Detection Method**
 Outliers were identified using the Interquartile Range (IQR) method, which detects extreme values based on the spread of the data. This method calculates the first (Q1) and third quartiles (Q3) to define upper and lower boundaries. Values outside these limits are treated as outliers and are removed to improve data quality and model performance.
 
-
+**Distribution Analysis**
+The histograms show that petal features (PetalLengthCm, PetalWidthCm) have higher variation and clearer class separation compared to sepal features. This makes petal measurements more important for classification.In contrast, sepal features (SepalLengthCm, SepalWidthCm) are more normally distributed with less variation and weaker class separation.
 
 
 
