@@ -31,6 +31,6 @@ Outliers were identified using the Interquartile Range (IQR) method, which detec
 **Distribution Analysis**
 The histograms show that petal features (PetalLengthCm, PetalWidthCm) have higher variation and clearer class separation compared to sepal features. This makes petal measurements more important for classification.In contrast, sepal features (SepalLengthCm, SepalWidthCm) are more normally distributed with less variation and weaker class separation.
 
-
+The KDE plots of the Iris dataset show that petal length and petal width are the most powerful features for species separation, clearly distinguishing Setosa from the other two species. Setosa forms a completely separate cluster, while Versicolor and Virginica show slight overlap mainly in sepal features. Overall, petal measurements are much more effective for classification than sepal measurements.
 
 
