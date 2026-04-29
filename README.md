@@ -24,3 +24,12 @@ Mean ≈ Median for most features, indicating relatively balanced distributions
 Petal features show slight skewness, suggesting class separation patterns
 Clear difference in petal measurements helps easily identify Iris-setosa
 Overlap exists in sepal features, especially between Iris-versicolor and Iris-virginica
+
+**Outlier Detection Method**
+Outliers were identified using the Interquartile Range (IQR) method, which detects extreme values based on the spread of the data. This method calculates the first (Q1) and third quartiles (Q3) to define upper and lower boundaries. Values outside these limits are treated as outliers and are removed to improve data quality and model performance.
+
+
+
+
+
+
