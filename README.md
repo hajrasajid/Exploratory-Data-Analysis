@@ -58,9 +58,11 @@ The Iris dataset contains 150 observations and 6 columns, including:
 - Strong correlation exists between petal length and petal width
 
 **Conclusion**
+
 Petal length and petal width are the most useful features for separating Iris species, with clear clustering, especially for Iris-setosa. Sepal features show more overlap between species and are less effective for distinction. Overall, petal measurements provide better class separation compared to sepal measurements in this dataset.
 
 
 **Author**
+
 Hajira Sajid
 Data Scientist | Building Real-World Machine Learning Solutions
