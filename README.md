@@ -9,9 +9,9 @@ The Iris dataset contains 150 observations and 6 columns, including:
 **Feature Description**
 - SepalLengthCm, SepalWidthCm, PetalLengthCm, PetalWidthCm → Continuous numerical features
 - **Species → Target variable with three classes**:
-  - - Iris-setosa
-  - - Iris-versicolor
-  - - Iris-virginica
+   - Iris-setosa
+   - Iris-versicolor
+   - Iris-virginica
 
 **Missing Values & Duplicate Records**
 - No missing values were found in the dataset.
